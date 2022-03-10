@@ -1,7 +1,7 @@
-Name:	Jocelyn Lum
-Date:		March 1, 2022
-Course:	IT FDN 130 A Wi 22: Foundations of Databases & SQL Programming
-GitHub URL:	https://github.com/jlum2022/DBFoundations-Module07
+**Name:**	Jocelyn Lum
+**Date:**		March 1, 2022
+**Course:**	IT FDN 130 A Wi 22: Foundations of Databases & SQL Programming
+**GitHub URL:**	https://github.com/jlum2022/DBFoundations-Module07
 
 # Assignment 07 - Functions
 
